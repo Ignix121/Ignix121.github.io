@@ -1,13 +1,2 @@
 # Ignix121.github.io
 webfolio
-<!DOCTYPE html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <title>Ignix121 — Portfolio</title>
-</head>
-<body>
-  <h1>Hello, World!</h1>
-  <p>This is my portfolio site hosted on GitHub Pages.</p>
-</body>
-</html>
